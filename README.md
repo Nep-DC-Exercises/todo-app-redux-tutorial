@@ -1,6 +1,6 @@
 # Intro to Redux
 
-## Date: 11/16 W13 D1 D58
+## Date: 11/18 W13 D1 D58
 
 ### Summary
 
